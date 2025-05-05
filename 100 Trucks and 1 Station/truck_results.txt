@@ -1,0 +1,115 @@
+Number of Trucks: 100
+Number of Stations: 1
+
+
+
+Print Station Results
+Station 1 unload count: 1714	Station 1 unload percentage: 100.0%
+Highest Performing Station: Station 1 with 1714 unloads
+Lowest Performing Station:  Station 1 with 1714 unloads
+
+
+
+Print Truck Results
+Truck 1 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 2 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 3 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 4 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 5 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 6 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 7 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 8 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 9 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 10 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 11 results ---> Unload Count: 14	Unload Percentage: 0.82%
+Truck 12 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 13 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 14 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 15 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 16 results ---> Unload Count: 15	Unload Percentage: 0.88%
+Truck 17 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 18 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 19 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 20 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 21 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 22 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 23 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 24 results ---> Unload Count: 15	Unload Percentage: 0.88%
+Truck 25 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 26 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 27 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 28 results ---> Unload Count: 15	Unload Percentage: 0.88%
+Truck 29 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 30 results ---> Unload Count: 15	Unload Percentage: 0.88%
+Truck 31 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 32 results ---> Unload Count: 15	Unload Percentage: 0.88%
+Truck 33 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 34 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 35 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 36 results ---> Unload Count: 20	Unload Percentage: 1.17%
+Truck 37 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 38 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 39 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 40 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 41 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 42 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 43 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 44 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 45 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 46 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 47 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 48 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 49 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 50 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 51 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 52 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 53 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 54 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 55 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 56 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 57 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 58 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 59 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 60 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 61 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 62 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 63 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 64 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 65 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 66 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 67 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 68 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 69 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 70 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 71 results ---> Unload Count: 15	Unload Percentage: 0.88%
+Truck 72 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 73 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 74 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 75 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 76 results ---> Unload Count: 15	Unload Percentage: 0.88%
+Truck 77 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 78 results ---> Unload Count: 15	Unload Percentage: 0.88%
+Truck 79 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 80 results ---> Unload Count: 15	Unload Percentage: 0.88%
+Truck 81 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 82 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 83 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 84 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 85 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 86 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 87 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 88 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 89 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 90 results ---> Unload Count: 19	Unload Percentage: 1.11%
+Truck 91 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 92 results ---> Unload Count: 18	Unload Percentage: 1.05%
+Truck 93 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 94 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 95 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 96 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 97 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Truck 98 results ---> Unload Count: 16	Unload Percentage: 0.93%
+Truck 99 results ---> Unload Count: 20	Unload Percentage: 1.17%
+Truck 100 results ---> Unload Count: 17	Unload Percentage: 0.99%
+Best Performing Truck: Truck 36 with 20 unloads
+Worst Performing Truck: Truck 11 with 14 unloads

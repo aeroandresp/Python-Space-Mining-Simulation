@@ -1,0 +1,35 @@
+Number of Trucks: 20
+Number of Stations: 1
+
+
+
+Print Station Results
+Station 1 unload count: 346	Station 1 unload percentage: 100.0%
+Highest Performing Station: Station 1 with 346 unloads
+Lowest Performing Station:  Station 1 with 346 unloads
+
+
+
+Print Truck Results
+Truck 1 results ---> Unload Count: 16	Unload Percentage: 4.62%
+Truck 2 results ---> Unload Count: 18	Unload Percentage: 5.2%
+Truck 3 results ---> Unload Count: 18	Unload Percentage: 5.2%
+Truck 4 results ---> Unload Count: 18	Unload Percentage: 5.2%
+Truck 5 results ---> Unload Count: 19	Unload Percentage: 5.49%
+Truck 6 results ---> Unload Count: 18	Unload Percentage: 5.2%
+Truck 7 results ---> Unload Count: 17	Unload Percentage: 4.91%
+Truck 8 results ---> Unload Count: 18	Unload Percentage: 5.2%
+Truck 9 results ---> Unload Count: 17	Unload Percentage: 4.91%
+Truck 10 results ---> Unload Count: 16	Unload Percentage: 4.62%
+Truck 11 results ---> Unload Count: 16	Unload Percentage: 4.62%
+Truck 12 results ---> Unload Count: 17	Unload Percentage: 4.91%
+Truck 13 results ---> Unload Count: 16	Unload Percentage: 4.62%
+Truck 14 results ---> Unload Count: 17	Unload Percentage: 4.91%
+Truck 15 results ---> Unload Count: 17	Unload Percentage: 4.91%
+Truck 16 results ---> Unload Count: 17	Unload Percentage: 4.91%
+Truck 17 results ---> Unload Count: 17	Unload Percentage: 4.91%
+Truck 18 results ---> Unload Count: 16	Unload Percentage: 4.62%
+Truck 19 results ---> Unload Count: 19	Unload Percentage: 5.49%
+Truck 20 results ---> Unload Count: 19	Unload Percentage: 5.49%
+Best Performing Truck: Truck 5 with 19 unloads
+Worst Performing Truck: Truck 1 with 16 unloads
