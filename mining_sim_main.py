@@ -1,5 +1,5 @@
 # Mining Simulation
-import mining_sim_functions
+import mining_sim_functions as sim
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 import sys
@@ -8,6 +8,9 @@ def main():
 
     n = 100 # Number of Mining Trucks
     m = 1 # Number of Unloading Stations
+
+    # Ensures n or m must be a positive integer value greater than 0
+    sim.check_inputs(n , m)
 
     # Results Text File
     results_filename = 'truck_results.txt'
@@ -24,8 +27,8 @@ def main():
     total_time_array = [t/60 for t in range(total_time)] # Each Element in Hour
 
     # Object Initialization
-    trucks = [mining_sim_functions.Truck(truck + 1, total_time) for truck in range(n)]
-    stations = [mining_sim_functions.Station() for station in range(m)]
+    trucks = [sim.Truck(truck + 1, total_time) for truck in range(n)]
+    stations = [sim.Station() for station in range(m)]
 
     # Run Simulation (Start at t = 1 since t = 0 is already initialized)
     for t in range(1, total_time):

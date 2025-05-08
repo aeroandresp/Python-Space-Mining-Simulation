@@ -3,6 +3,10 @@
 # Used to generate random mining duration time for the trucks
 import random
 
+def check_inputs(n, m):
+    if n <= 0 or m <= 0 or not isinstance(n, int) or not isinstance(m, int):
+        raise ValueError('Both values must be an integer value greater than 0')
+
 class Station:
 
     line_wait_times = []
@@ -145,6 +149,9 @@ class Truck(Station):
         elif self.mode == 'travel_to_mine':
             self.mode = 'mine'
             self.wait_time = random.randint(Truck.rand_start, Truck.rand_end)
+
+        else: # In Case 'mode' gets into an illegal state
+            raise ValueError('Mode is in an illegal state of', self.mode)
 
     def print_truck_state(self):
         print('Truck', self.truck_id,'Current Mode --->  ', self.mode, end='\t')
